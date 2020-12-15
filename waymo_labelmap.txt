@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'Vehicles'
+}
+
+item {
+  id: 2
+  name: 'Pedestrians'
+}
+
+item {
+  id: 3
+  name: 'Cyclists'
+}
